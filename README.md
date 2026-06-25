@@ -51,7 +51,7 @@ To evaluate portfolio quality cleanly, loans are classified into two distinct bu
 ### 1️⃣ Dashboard 1: Summary View
 Designed for C-suite executives to monitor high-level portfolio health instantly. It features dynamic KPI cards displaying total metrics with MoM growth percentages, and a clear Good vs. Bad Loan grid split comparing volume, funding, and recovery rates.
 
-![Summary Dashboard](Dashboard_1.jpg)
+![Summary Dashboard]([Dashboard_1.jpg](https://github.com/mayank864/bank-loan-portfolio-analysis-sql-pyhton-powerbi-excel/blob/main/Dashboard_1.png))
 
 ### 2️⃣ Dashboard 2: Overview (Trends & Breakdown)
 Designed for risk analysts to identify underlying seasonal patterns and demographic shifts through various visualizations:
