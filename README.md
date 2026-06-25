@@ -60,7 +60,7 @@ Designed for risk analysts to identify underlying seasonal patterns and demograp
 * **Loan Term (Donut Chart):** Breaks down short-term (36 months) vs. long-term (60 months) volume.
 * **Employee Length & Purpose (Bar Charts):** Analyzes borrower stability profiles and the intent behind loans.
 
-![Overview Dashboard](Dashboard_2.jpg)
+![Overview Dashboard](https://github.com/mayank864/bank-loan-portfolio-analysis-sql-pyhton-powerbi-excel/blob/main/Dashboard_2.png)
 
 ### 3️⃣ Dashboard 3: Details View
 A deep-dive data grid designed for operational teams who need granular access to individual records. It provides a comprehensive, searchable tabular view of all vital borrower fields with advanced cross-filtering capabilities.
