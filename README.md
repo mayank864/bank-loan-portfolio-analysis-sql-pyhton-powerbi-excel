@@ -65,7 +65,7 @@ Designed for risk analysts to identify underlying seasonal patterns and demograp
 ### 3️⃣ Dashboard 3: Details View
 A deep-dive data grid designed for operational teams who need granular access to individual records. It provides a comprehensive, searchable tabular view of all vital borrower fields with advanced cross-filtering capabilities.
 
-![Details Dashboard](Dashboard_3.jpg)
+![Details Dashboard](https://github.com/mayank864/bank-loan-portfolio-analysis-sql-pyhton-powerbi-excel/blob/main/Dashboard_3.png)
 
 ---
 
